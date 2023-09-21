@@ -1,3 +1,16 @@
+
+print('this is model')
+print("hello")
+print("rex")
+print("spled")
+print("nicolle")
+print("aneza")
+print("carla")
+print("marv")
+print("cy")
+print("bry")
+print("patrik")
+
 class student:
     def __init__(self, first, last, age):
         self.first = first
@@ -9,3 +22,4 @@ class student:
 
 std = student("Lexus", "Taladro", 22)
 std.details()
+
