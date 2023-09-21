@@ -1,4 +1,11 @@
 
+B = "blue"
+R = "red"
+G = "gray"
+O = "orange"
+Y = "yellow"
+print(f"{B}, {R}, {G}, {O}, {Y}")
+ 
 print('this is model')
 print("hello")
 print("rex")
@@ -22,4 +29,3 @@ class student:
 
 std = student("Lexus", "Taladro", 22)
 std.details()
-
